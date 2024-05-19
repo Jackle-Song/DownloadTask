@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Download Task 1</string>
+
+    <!--Home Activity-->
+    <string name="home_activity_tab_one_title">ONE</string>
+    <string name="home_activity_tab_two_title">TWO</string>
+</resources>
